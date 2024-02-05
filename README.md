@@ -18,9 +18,9 @@ You must install Python 3.11 or another currently version, after that you must i
 
 4 - Register a new creadential and download the .json file.
 
-5 - Rename the value of the variable 'credentials_path' on the code and pass the location of the .json file into your computer.
+5 - Rename the value of the variable 'credentials_path' on the code and pass the location of the .json file into your computer, like in this example bellow:
 
-    credentials_path = 'path.json'   # the location of the file containing Google Cloud API credentials
+    credentials_path = "C:/Users/User/Desktop/credentials.json"   # the location of the file containing Google Cloud API credentials
 
 # RUNNING THE APP
 
